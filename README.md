@@ -6,6 +6,8 @@ https://nastagh.github.io/Mikhailovskaya_Anastasiaya/Arkanoid/index.html (**Game
 
 ## RSSchool
 
+https://nastagh.github.io/Plants/ (**Website Plants**. Website has 1 page. In Service section, if you will press the button, you can choose projects. You can choose price in Prices section and you can choose a city in Contact section)
+
 https://nastagh.github.io/Shelter/pages/main/index.html  (**Website Shelter**. Website has 2 pages. It was made according finished design in Figma. Shelter has popup, pagination, slider, burger menu)
 
 https://nastagh.github.io/virtual_keyboard/dist/  (**Virtual Keyboard**. I created a virtual Keyboard. Pressing a key on a physical keyboard highlights the key on the virtual keyboard. It is able to switch between two language layouts. You can click on the buttons with a mouse on the virtual keyboard or pressing keys on a physical keyboard)
